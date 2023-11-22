@@ -31,7 +31,7 @@ spl_autoload_register(function ($className){
 
     <div>
         <h1>
-            Hello World!
+            Hallo Aleksandr Borisovich!
         </h1>
     </div>
 
