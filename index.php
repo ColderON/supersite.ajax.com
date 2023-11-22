@@ -29,6 +29,12 @@ spl_autoload_register(function ($className){
 
 <body>
 
+    <div>
+        <h1>
+            Hello World!
+        </h1>
+    </div>
+
 <div style="margin: 25px">
     <table id="_people" class="table table-striped">
         <thead>
